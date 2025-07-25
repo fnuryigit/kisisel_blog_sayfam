@@ -7,6 +7,6 @@
 
 Blog sayfasının görünümü:
 
-![Blog Sayfası - Bölüm 1](images/blogp01.png)
+![Blog Sayfası - Bölüm 1](blogp01.png)
+![Blog Sayfası - Bölüm 2](blogp02.png)
 
-![Blog Sayfası - Bölüm 2](images/blogp02.png)
